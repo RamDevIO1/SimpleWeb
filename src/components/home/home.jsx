@@ -42,10 +42,5 @@ function Home() {
   );
 }
 
-const toggle = document.querySelector(".hover-show");
-
-toggle.addEventListener("click", () => {
-  toggle.classList.toggle("active");
-});
 
 export default Home;
