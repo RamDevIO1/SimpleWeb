@@ -18,23 +18,23 @@ function Footer() {
         </a>
       </h1>
       <div className="social-links">
-        <a href="#">
+        <a href="/">
           <BsInstagram className="social" />
         </a>
-        <a href="#">
+        <a href="/">
           {" "}
           <FaFacebookF className="social" />
         </a>
-        <a href="#">
+        <a href="/">
           {" "}
           <TiSocialDribbble className="social" />
         </a>
 
-        <a href="#">
+        <a href="/">
           <TiSocialYoutube className="social" />
         </a>
 
-        <a href="#">
+        <a href="/">
           <TiSocialGithub className="social" />
         </a>
       </div>
