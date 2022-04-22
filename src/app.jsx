@@ -1,10 +1,10 @@
-import Header from "./components/header/header";
-import Home from "./components/home/home";
-import About from "./components/about/about";
-import Contact from "./components/contact/contact";
-import Navbar from "./components/nav/nav";
-import Members from "./components/members/members";
-import Footer from "./components/footer/footer";
+import Header from "./components/header/header.jsx";
+import Home from "./components/home/home.jsx";
+import About from "./components/about/about.jsx";
+import Contact from "./components/contact/contact.jsx";
+import Navbar from "./components/nav/nav.jsx";
+import Members from "./components/members/members.jsx";
+import Footer from "./components/footer/footer.jsx";
 
 function WebContent() {
   return (
